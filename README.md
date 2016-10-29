@@ -11,3 +11,5 @@ Todo
 ====
 + add in renderToCanvas methods
 * add configuration "useDOMElements" option
++ add comments and generate api docs using a docifier
++ make pizza
